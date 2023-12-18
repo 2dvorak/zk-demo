@@ -4,6 +4,9 @@ cache
 circuits/groth16.sol
 node_modules
 
+!package.json
+!package-lock.json
+
 !input.json
 *.json
 *.zkey
