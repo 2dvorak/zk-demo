@@ -1,0 +1,13 @@
+artifacts
+build
+cache
+circuits/groth16.sol
+node_modules
+
+!input.json
+*.json
+*.zkey
+*.vkey
+*.ptau
+*.sol
+*.wtns
